@@ -1,0 +1,23 @@
+ARRAY mss 0 
+ARRAY msv 0 
+ARRAY numbers 3 One Two Three 
+ARRAY test_arr 6 55 50 2 45 10 102 
+ARRAY mass 4 1 2 6 9 
+SINGLY_LIST fruits 4 Apple Apple Cherry Cherry 
+SINGLY_LIST test_fruits 2 Apple Cherry 
+SINGLY_LIST test 6 Apple Banana Kivi Orange Cherry Klubnika 
+SINGLY_LIST f1 4 1 _ _ 12 
+SINGLY_LIST f 0 
+DOUBLY_LIST dlist 3 55 7 8 
+DOUBLY_LIST colors_test 3 black orange green 
+DOUBLY_LIST colors 4 Red Green Yellow Blue 
+STACK st1 1 8 
+STACK stack1 3 First Second Third 
+STACK s 1 cat 
+QUEUE och 1 8 
+QUEUE queue1 3 Client1 Client2 Client3 
+QUEUE q 1 dog 
+TREE tree 3 1 16 3 17 6 22 
+TREE test 1 50 Root 
+TREE test_tree 7 50 Root 30 Left 70 Right 20 LeftLeft 40 LeftRight 75 NewNode 72 RightR 
+TREE tree1 6 50 Apple 30 Banana 70 Cherry 20 Date 40 Elderberry 75 Kivi 
